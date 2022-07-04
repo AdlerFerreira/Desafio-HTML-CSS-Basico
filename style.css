@@ -1,0 +1,24 @@
+table{
+   border: 1px solid white;
+   color: White;
+   font-size:x-large;
+}
+
+
+td{
+    background-color: #424250;
+}
+a{
+    color: white;
+}
+
+.produto-moda{
+    background-color: #BB86FC;  
+}
+.produto-casa{
+    background-color: #00C4B4;     
+}
+p{
+    color: red;
+    font-size: 20px;
+}
